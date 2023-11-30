@@ -1,0 +1,14 @@
+*.pyc
+*.pt
+TimeSeriesTransformers/dataset/
+TimeSeriesTransformers/result.txt
+TimeSeriesTransformers/test_results/
+TimeSeriesTransformers/results/
+TimeSeriesTransformers/logs/
+TimeSeriesTransformers/Pyraformer/models/
+TimeSeriesTransformers/checkpoints/
+TimeSeriesTransformers/FEDformer/checkpoints/
+TimeSeriesTransformers/FEDformer/results/
+TimeSeriesTransformers/FEDformer/test_results/
+TimeSeriesTransformers/FEDformer/result.txt
+.DS_Store
